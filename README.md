@@ -126,4 +126,4 @@ The Reviewer's system message holds the rubric (hook, clarity, CTA, length, hash
 
 ## Author
 
-Built by **Fathima** as part of the Social Eagle *learn. build. operate* program.
+Built by **Fathima**
